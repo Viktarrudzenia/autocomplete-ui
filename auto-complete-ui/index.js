@@ -1,4 +1,4 @@
-import createAutoComplete from "../auto-complete/main.js";
+import createAutoComplete from "./main.js";
 import { cities } from "./cities.js";
 
 let prefixTree = createAutoComplete(cities);
