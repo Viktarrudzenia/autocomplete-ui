@@ -1,4 +1,8 @@
-# **Viktar Rudzenia**
+# Autocomplete-UI link
+
+ **Completed project, Netlify link**: [Autocomplete-UI](https://objective-mirzakhani-397968.netlify.com/)
+ 
+## **Viktar Rudzenia**
 
 ## **Education**
 
